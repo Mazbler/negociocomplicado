@@ -30,6 +30,7 @@ se o arquivo existe (Para definir se o tipo da operação será w (write) ou a (
 mas só pode mudar o tipo para ‘a’, se c for maior que 0. Gravar a linha no arquivo.
 
 2. Baseado no Ex. 21, fazer:
+
 a. Criar no Linux a pasta /tmp/exercicios
 i. Assegurar que ela tem permissão 744 (Fazer em Python)
 
